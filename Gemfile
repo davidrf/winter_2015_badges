@@ -48,6 +48,7 @@ gem 'foundation-rails'
 group :development, :test do
   gem 'pry-rails'
   gem 'rspec-rails'
+  gem 'dotenv-rails'
 end
 
 group :test do
